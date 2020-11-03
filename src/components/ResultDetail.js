@@ -16,7 +16,7 @@ styles = StyleSheet.create({
         marginLeft: 15
     },
     image:{
-        width: 160,
+        width: 150,
         height: 100,
         borderRadius: 4,
         marginBottom: 5
